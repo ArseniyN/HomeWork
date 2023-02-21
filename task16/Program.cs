@@ -30,7 +30,7 @@ void PrintArray(int[] arr)
 }
 
 int DiffMaxMin(int[] y) 
-{
+{ 
     foreach (int i in array)
     {
         if (i < minValue) minValue = i; 
